@@ -1,0 +1,55 @@
+body{
+	background-color: lightcyan;
+	font-family:sans-serif;
+}
+button{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+h4{
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+h1{
+	font-family:sans-serif;
+	background-color: lightcyan;
+	font-size: 50px;
+	text-align: center;
+	color: purple;
+}
+h2{
+	font-family:monospace;
+	color: blue;
+}
+p{
+	font-family: serif;
+	font-size: 30px;
+}
+a{
+	font-family: sans-serif;
+}
+button{
+	font-family: sans-serif;
+	color: blue;
+	background-color: white;
+	transition: 0.3s;
+	display:inline-block;
+	transform: scale(1.1);
+}
+h4{
+	text-align: center;
+	font-size: 30px;
+}
+a:hover{
+	color: red;
+}
+
+footer {
+	background-color: white;
+	text-align: center;
+} 
